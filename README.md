@@ -2,7 +2,7 @@
 ![NKUT_logo](./logo.jpg)
 
 ## To Do List
--[x] NKUT Dataset release
+-[X] NKUT Dataset release
 -[] WTNet 2D model code release
 -[] WTNet 3D model code release
 -[] Training code release
