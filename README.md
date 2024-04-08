@@ -11,7 +11,7 @@
 - [] WTNet 3D model code release
 - [] Training code release
 
-## 1.Request for NKUT Dataset
+## Request for NKUT Dataset
 ### If you wish to use the NKUT dataset in your own research, you need to complete the following steps:
 * 1. Download and fill in the PDF file in the warehouse. Please note that all items in the file need to be filled in completely and cannot be left blank, otherwise it may affect the acquisition of the dataset.
 * 2. Send an email to `bdor25@163.com`. The subject of the email should be "NKUT Dataset Request" and briefly describe your name, contact information and institution or organization in the content of the email. Remember to upload the PDF completed in last step as an attachment of your email.
