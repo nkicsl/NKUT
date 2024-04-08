@@ -21,14 +21,13 @@
 ## Citation
 If you used NKUT in your own research, please give us a star and cite our paper below:<br />
 
-`@ARTICLE{10485282,
-  author={Zhou, Zhenhuan and Chen, Yuzhu and He, Along and Que, Xitao and Wang, Kai and Yao, Rui and Li, Tao},
-  journal={IEEE Journal of Biomedical and Health Informatics}, 
-  title={NKUT: Dataset and Benchmark for Pediatric Mandibular Wisdom Teeth Segmentation}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-11},
-  keywords={Teeth;Dentistry;Image segmentation;Task analysis;Bones;Annotations;Three-dimensional displays;CBCT dataset;pediatric wisdom teeth segmentation;pediatric germectomy;multi-scale feature fusion},
-  doi={10.1109/JBHI.2024.3383222}}
-`
+  @ARTICLE{10485282,
+    author={Zhou, Zhenhuan and Chen, Yuzhu and He, Along and Que, Xitao and Wang, Kai and Yao, Rui and Li, Tao},
+    journal={IEEE Journal of Biomedical and Health Informatics}, 
+    title={NKUT: Dataset and Benchmark for Pediatric Mandibular Wisdom Teeth Segmentation}, 
+    year={2024},
+    volume={},
+    number={},
+    pages={1-11},
+    keywords={Teeth;Dentistry;Image segmentation;Task analysis;Bones;Annotations;Three-dimensional displays;CBCT dataset;pediatric wisdom teeth segmentation;pediatric germectomy;multi-scale feature fusion},
+    doi={10.1109/JBHI.2024.3383222}}
