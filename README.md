@@ -2,10 +2,10 @@
 ![NKUT_logo](./logo.jpg)
 
 ## To Do List
--[X] NKUT Dataset release
--[] WTNet 2D model code release
--[] WTNet 3D model code release
--[] Training code release
+- [X] NKUT Dataset release
+- [] WTNet 2D model code release
+- [] WTNet 3D model code release
+- [] Training code release
 
 ## 1.Request for NKUT Dataset
 ### If you wish to use the NKUT dataset in your own research, you need to complete the following steps:
