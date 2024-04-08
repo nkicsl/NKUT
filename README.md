@@ -41,6 +41,6 @@ If you used NKUT in your own research, please give us a star and cite our paper 
 ## Acknowledgment
 Code can only be used for ACADEMIC PURPOSES. NO COMERCIAL USE is allowed. Copyright © College of Computer Science, Nankai University. All rights reserved.
 
-## Star History
+
 [![Star History Chart](https://api.star-history.com/svg?repos=nkicsl/NKUT&type=Date)](https://star-history.com/#nkicsl/NKUT&Date)
       
