@@ -16,4 +16,19 @@
 * 1. Download and fill in the `Application.pdf` PDF file in the repository. Please note that all items in the file need to be filled in completely and cannot be left blank, otherwise it may affect the acquisition of the dataset.
 * 2. Send an email to `bdor25@163.com`. The subject of the email should be "NKUT Dataset Request" and briefly describe your name, contact information and institution or organization in the content of the email. Remember to upload the PDF completed in last step as an attachment of your email.
 * 3. We will review your application and notify you via email whether your application has been approved or if further submission of materials is required within two weeks. Please arrange your time reasonably.
-* 4. For researchers who pass the application, we will attach a link to obtain the dataset with the email. You will get about 30 cases of NKUT dataset and their corresponding pixel-level expert annotations, a doc file recording the details of each data will also be included. 
+* 4. For researchers who pass the application, we will attach a link to obtain the dataset with the email. You will get about 30 cases of NKUT dataset and their corresponding pixel-level expert annotations, a doc file recording the details of each data will also be included.
+
+## Citation
+If you used NKUT in your own research, please give us a star and cite our paper below:<br />
+
+`@ARTICLE{10485282,
+  author={Zhou, Zhenhuan and Chen, Yuzhu and He, Along and Que, Xitao and Wang, Kai and Yao, Rui and Li, Tao},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={NKUT: Dataset and Benchmark for Pediatric Mandibular Wisdom Teeth Segmentation}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-11},
+  keywords={Teeth;Dentistry;Image segmentation;Task analysis;Bones;Annotations;Three-dimensional displays;CBCT dataset;pediatric wisdom teeth segmentation;pediatric germectomy;multi-scale feature fusion},
+  doi={10.1109/JBHI.2024.3383222}}
+`
