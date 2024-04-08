@@ -2,8 +2,8 @@
 ![NKUT_logo](./logo.jpg)
 
 ## News
-2024-3-23 Our paper was accepted by IEEE Journal of Biomedical and Health Informatics (JBHI), congratulations!🎉🎉🎉🎉
-2024-4-8 We released the NKUT dataset. Now, researchers can apply to obtain the dataset.🎉🎉🎉🎉
+2024-3-23 Our paper was accepted by IEEE Journal of Biomedical and Health Informatics (JBHI), congratulations!🎉🎉🎉🎉<br />
+2024-4-8 We released the NKUT dataset. Now, researchers can apply to obtain the dataset.🎉🎉🎉🎉<br />
 
 ## To Do List
 - [X] NKUT Dataset release
