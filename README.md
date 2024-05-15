@@ -22,10 +22,9 @@
 ## Model
 ### WTNet_2D Model
 The 2D WTNet model is in ./networks/WTNet/WTNet.py<br />
-This model use vgg as the encoder backbone, same as our paper. <br />
-If you want to use the pretrained model of VGG
+
 ### WTNet_3D Model
-The 3D WTNet model is in ./modles/WTNet.py
+The 3D WTNet model is in ./modles/WTNet.py<br />
 
 ## Training
 coming soon
