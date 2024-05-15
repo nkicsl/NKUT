@@ -4,10 +4,11 @@
 ## News
 * `March. 23th, 2024`: Our paper was accepted by IEEE Journal of Biomedical and Health Informatics (JBHI), congratulations!🎉🎉🎉🎉<br />
 * `April. 8th, 2024`: We released the NKUT dataset. Now, researchers can apply to obtain the dataset.🎉🎉🎉🎉<br />
+* `May. 15th, 2024`: We released the 2D WTNet model. 🎉🎉🎉🎉<br />
 
 ## To Do List
 - [X] NKUT Dataset release
-- [ ] WTNet 2D model code release
+- [X] WTNet 2D model code release
 - [ ] WTNet 3D model code release
 - [ ] Training code release
 
@@ -19,7 +20,7 @@
 * 4. For researchers who pass the application, we will attach a link to obtain the dataset with the email. You will get about 30 cases of NKUT dataset and their corresponding pixel-level expert annotations, a doc file recording the details of each data will also be included.
   
 ## Model
-coming soon
+### WTNet_2D Model
 
 ## Training
 coming soon
