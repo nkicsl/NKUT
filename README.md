@@ -4,12 +4,12 @@
 ## News
 * `March. 23th, 2024`: Our paper was accepted by IEEE Journal of Biomedical and Health Informatics (JBHI), congratulations!🎉🎉🎉🎉<br />
 * `April. 8th, 2024`: We released the NKUT dataset. Now, researchers can apply to obtain the dataset.🎉🎉🎉🎉<br />
-* `May. 15th, 2024`: We released the 2D WTNet model. 🎉🎉🎉🎉<br />
+* `May. 15th, 2024`: We released the 2D and 3D WTNet model. 🎉🎉🎉🎉<br />
 
 ## To Do List
 - [X] NKUT Dataset release
 - [X] WTNet 2D model code release
-- [ ] WTNet 3D model code release
+- [X] WTNet 3D model code release
 - [ ] Training code release
 
 ## Request for NKUT Dataset
@@ -21,6 +21,10 @@
   
 ## Model
 ### WTNet_2D Model
+The 2D WTNet model is in ./networks/WTNet/WTNet.py
+This model use vgg as the encoder backbone, same as our paper. If you want to use the pretrained model of VGG
+### WTNet_3D Model
+The 3D WTNet model is in ./modles/WTNet.py
 
 ## Training
 coming soon
